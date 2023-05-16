@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋, I'm Wesley Simões</h3>
 I am a software developer with experience in creating high-performance web applications using agile methodologies such as Scrum and Kanban to ensure continuous project delivery and optimize the development process. I have knowledge in Node and REST and utilize React.js with Hooks, ContextAPI, Redux, and Router. To ensure proper code functionality, I use Jest and Testing-library.</h3>
-
+<br />
 <br />
 <br />
 <p align="center">
